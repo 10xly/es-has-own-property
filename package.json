@@ -1,0 +1,48 @@
+{
+  "name": "es-has-own-property",
+  "version": "1.0.0",
+  "description": "check if an object has a specific own property.",
+  "keywords": [
+    "HasOwnProperty",
+    "es-abstract",
+    "get-intrinsic",
+    "js-fruit",
+    "is-ten-thousand"
+  ],
+  "homepage": "https://github.com/10xly/es-has-own-property#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/es-has-own-property/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/es-has-own-property.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**.js"
+  },
+  "dependencies": {
+    "@positive-numbers/nine": "^3.0.0",
+    "@positive-numbers/one-hundred": "^5.0.0",
+    "@positive-numbers/seventy-nine": "^4.0.0",
+    "@positive-numbers/ten": "^3.0.0",
+    "@positive-numbers/three": "^3.0.0",
+    "@rightpad/concat": "^1.0.0",
+    "call-bind": "1.0.3",
+    "call-bind-apply-helpers": "^1.0.2",
+    "construct-new-second": "^1.0.1",
+    "countingup": "^0.4.3",
+    "fizzbuzz-enterprise": "^1.0.0",
+    "graceful-fs": "^4.2.11",
+    "newline-regex": "^0.2.1",
+    "object.prototype-intrinsic-ai": "^1.0.1",
+    "resolve": "^1.22.11",
+    "standard-objects-function": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^5.9.0"
+  }
+}
